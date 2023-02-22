@@ -14,13 +14,13 @@ https://github.com/FWGS/hlsdk-portable
 
 https://github.com/FWGS/xash3d
 
-# How To Install
+# How To Install 
 
 Take the valve folder and cstrike in the game directory, create a xash folder and put it inside
 
 after this process put all the files inside the xash folder and replace the cl_dlls and dlls.
 
-# How to Start
+# How to Launch
 
 - Half-Life:
 ```
