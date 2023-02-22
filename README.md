@@ -2,7 +2,7 @@ Discord: https://bit.ly/pitfdc
 
 # Sources
 
-- Counter Strike 1.6:
+- Counter-Strike 1.6:
 
 https://github.com/Troll338cz/cs16-client-linux
 
