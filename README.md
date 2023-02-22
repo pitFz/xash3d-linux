@@ -21,13 +21,13 @@ after this process put all the files inside the xash folder and replace the cl_d
 # How to Start
 
 - Half-Life:
-
-**LD_LIBRARY_PATH=. ./xash3d -dev 5 -console**
-
+``
+LD_LIBRARY_PATH=. ./xash3d -dev 5 -console
+``
 - Counter-Strike 1.6
-
-**LD_LIBRARY_PATH=. ./xash3d -dev 5 -console -game cstrike**
-
+``
+LD_LIBRARY_PATH=. ./xash3d -dev 5 -console -game cstrike
+``
 # Warnings
 
 Maybe you get banned from too many servers.
