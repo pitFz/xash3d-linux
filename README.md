@@ -30,7 +30,7 @@ LD_LIBRARY_PATH=. ./xash3d -dev 5 -console
 ```
 LD_LIBRARY_PATH=. ./xash3d -dev 5 -console -game cstrike
 ```
-# Warnings
+# Warning
 
 Maybe you get banned from too many servers.
 
