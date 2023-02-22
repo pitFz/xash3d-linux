@@ -1,4 +1,4 @@
-Discord: bit.ly/pitfdc
+Discord: https://bit.ly/pitfdc
 
 # Sources
 
