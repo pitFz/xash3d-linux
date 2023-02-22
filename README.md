@@ -1,3 +1,5 @@
+Discord: bit.ly/pitfdc
+
 # Sources
 
 - Counter Strike 1.6:
