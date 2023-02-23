@@ -1,5 +1,3 @@
-Discord: https://bit.ly/pitfdc
-
 # How To Install 
 
 Take the valve folder and cstrike in the game directory, create a xash folder and put it inside
